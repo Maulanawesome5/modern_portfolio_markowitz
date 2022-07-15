@@ -49,6 +49,11 @@ print(f"\nCovariance of both stock {covar}")
 correlations = test1["TSLA"].corr(test1["AMZN"])
 print(f"\nCorrelation of both stock {correlations}")
 
+# calculate Expected Return
+test2 = test.pct_change().apply(lambda x: np.log(1 + x))  # 1. check the percentage return
+weight_allocation = [0.2, 0.8]  # 2. allocation 20% and 80% from your money to invest TSLA and AMZN
+e_r_ind = test2.mean()  # 3. calculate mean price value
+print(f"\nMean price of both stock\n{e_r_ind}")
 
-
-
+exp_return = (e_r_ind * weight_allocation).sum()  # 4. calculate total expected return
+print(f"\nTotal expected return {exp_return}")
