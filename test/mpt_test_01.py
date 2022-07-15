@@ -15,7 +15,7 @@ end_time = dt.datetime(year=2022, month=1, day=3)
 # Read data               list ticker   data source    data periode
 test = data.DataReader(["TSLA", "AMZN"], "yahoo", start_time, end_time)
 test = test["Close"]  # ambil kolom harga closing saja
-# test = pd.DataFrame(test, copy=True)  # convert to DataFrame format
+test = pd.DataFrame(test)  # convert to DataFrame format
 
 # Calculate log of percentage change
 tesla = test["TSLA"].pct_change().apply(lambda x: np.log(1 + x))
@@ -36,9 +36,19 @@ print(f"TSLA volatility {tsla_vol}, AMZN volatility {amzn_vol}")
 
 # Volatility of both stock
 test.pct_change().apply(lambda x: np.log(1 + x)).std().apply(lambda x: x * np.sqrt(250)).plot(kind="bar")
-#plt.show()  # uncomment to preview plot diagram
+plt.show()  # uncomment to preview plot diagram
 
 # covariance
+test1 = test.pct_change().apply(lambda x: np.log(1 + x))
+print(f"\nPercentage change of each stock\n {test1}")
+
+covar = test1["TSLA"].cov(test1["AMZN"])
+print(f"\nCovariance of both stock {covar}")
+
+# correlation
+correlations = test1["TSLA"].corr(test1["AMZN"])
+print(f"\nCorrelation of both stock {correlations}")
+
 
 
 
