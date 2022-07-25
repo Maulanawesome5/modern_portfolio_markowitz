@@ -1,0 +1,24 @@
+Kode    Nama Perusahaan                             Tgl. Listing    Juml. Saham         Papan Pencatatan
+BMHS	Bundamedik Tbk.	                            2021-07-06 	   8.603.416.176	Utama
+CARE	Metro Healthcare Indonesia Tbk.	            2020-03-13 	  33.250.000.000	Pengembangan
+DGNS	Diagnos Laboratorium Utama Tbk.	            2021-01-15 	   1.250.000.000	Pengembangan
+DVLA	Darya-Varia Laboratoria Tbk.	            1994-11-11 	   1.120.000.000	Utama
+HEAL	Medikaloka Hermina Tbk.	                    2018-05-16 	  14.890.000.000	Utama
+INAF	Indofarma Tbk.	                            2001-04-17 	   3.099.267.500	Utama
+IRRA	Itama Ranoraya Tbk.	                        2019-10-15 	   1.600.000.000	Pengembangan
+KAEF	Kimia Farma Tbk.	                        2001-07-04 	   5.554.000.000	Utama
+KLBF	Kalbe Farma Tbk.	                        1991-07-30 	  46.875.122.110	Utama
+MERK	Merck Tbk.	                                1981-07-23 	     448.000.000	PENGEMBANGAN
+MIKA	Mitra Keluarga Karyasehat Tbk.	            2015-03-24 	  14.246.349.500	Utama
+PEHA	Phapros Tbk.	                            2018-12-26 	     840.000.000	Utama
+PRDA	Prodia Widyahusada Tbk.	                    2016-12-07 	     937.500.000	Utama
+PRIM	Royal Prima Tbk.	                        2018-05-15 	   3.393.434.905	Pengembangan
+PYFA	Pyridam Farma Tbk.	                        2001-10-16 	     535.080.000	Pengembangan
+RSGK	Kedoya Adyaraya Tbk.	                    2021-09-08 	     929.675.000	Utama
+SAME	Sarana Meditama Metropolitan Tbk.	        2013-01-11 	  17.113.987.263	Pengembangan
+SCPI	Organon Pharma Indonesia Tbk.	            1990-06-08 	       3.600.000	PENGEMBANGAN
+SIDO	Industri Jamu dan Farmasi Sidomuncul Tbk.	2013-12-18 	  30.000.000.000	Utama
+SILO	Siloam International Hospitals Tbk.	        2013-09-12 	   1.625.765.625	Utama
+SOHO	Soho Global Health Tbk.	                    2020-09-08 	   1.269.168.239	Utama
+SRAJ	Sejahteraraya Anugrahjaya Tbk.	            2011-04-11 	  12.000.705.445	Utama
+TSPC	Tempo Scan Pacific Tbk.	                    1994-06-17 	   4.509.864.300	Utama

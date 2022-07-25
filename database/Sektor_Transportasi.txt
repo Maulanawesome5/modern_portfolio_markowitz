@@ -1,0 +1,30 @@
+Kode    Nama Perusahaan                             Tgl. Listing       Juml. Saham      Papan Pencatatan
+AKSI	Mineral Sumberdaya Mandiri Tbk.	            13 Jul 2001	       720.000.000	    Pengembangan
+ASSA	Adi Sarana Armada Tbk.	                    12 Nov 2012	     3.565.496.148	    Utama
+BIRD	Blue Bird Tbk.	                            05 Nov 2014	     2.502.100.000	    UTAMA
+BLTA	Berlian Laju Tanker Tbk.                    26 Mar 1990	    25.940.187.103	    Utama
+BPTR	Batavia Prosperindo Trans Tbk.	            09 Jul 2018	     1.550.000.000	    Utama
+CMPP	AirAsia Indonesia Tbk.	                    08 Des 1994	    10.685.124.441	    Pengembangan
+DEAL	Dewata Freightinternational Tbk.            11 Nov 2018	     1.146.170.959	    Pengembangan
+GIAA	Garuda Indonesia (Persero) Tbk.	            11 Feb 2011	    25.886.576.254	    Utama
+HAIS	Hasnur Internasional Shipping Tbk.          01 Sep 2021	     2.626.250.000	    Utama
+HELI	Jaya Trishindo Tbk.	                        27 Mar 2018	       832.862.387	    Pengembangan
+IATA	Indonesia Transport & Infrastructure Tbk.   13 Sep 2006	    11.415.812.114	    Pengembangan
+JAYA	Armada Berjaya Trans Tbk.	                21 Feb 2019	       750.000.210	    Pengembangan
+KJEN	Krida Jaringan Nusantara Tbk.	            01 Jul 2019	       500.000.000	    Pengembangan
+LRNA	Eka Sari Lorena Transport Tbk.	            15 Apr 2014	       350.000.022	    Pengembangan
+MIRA	Mitra International Resources Tbk.          30 Jan 1997	     3.961.452.039	    Pengembangan
+NELY	Pelayaran Nelly Dwi Putri Tbk.	            11 Okt 2012	     2.350.000.000	    Pengembangan
+PPGL	Prima Globalindo Logistik Tbk.	            20 Jul 2020	       750.021.341	    Akselerasi
+PURA	Putra Rajawali Kencana Tbk.	                22 Jan 2020	     5.941.264.082	    Pengembangan
+SAFE	Steady Safe Tbk.                            15 Ags 1994	       615.145.012	    PENGEMBANGAN
+SAPX	Satria Antaran Prima Tbk.	                03 Okt 2018	       833.333.300	    Pengembangan
+SDMU	Sidomulyo Selaras Tbk.	                    12 Jul 2011	     1.135.225.000	    Pengembangan
+SMDR	Samudera Indonesia Tbk.	                    05 Jul 1999	     3.275.120.000	    Utama
+TAXI	Express Transindo Utama Tbk.	            02 Nov 2012	    10.223.647.156	    Utama
+TMAS	Temas Tbk.	                                09 Jul 2003	     5.705.150.000	    Utama
+TNCA	Trimuda Nuansa Citra Tbk.	                28 Jun 2018	       421.640.000	    Pengembangan
+TRJA	Transkon Jaya Tbk.	                        27 Ags 2020	     1.510.200.000	    Pengembangan
+TRUK	Guna Timur Raya Tbk.	                    23 Mei 2018	       435.000.000	    PENGEMBANGAN
+WEHA	WEHA Transportasi Indonesia Tbk.            31 Mei 2007	       886.411.265	    Utama
+

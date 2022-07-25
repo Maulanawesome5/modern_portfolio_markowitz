@@ -1,0 +1,81 @@
+Kode    Nama Perusahaan                             Tgl. Listing    Juml. Saham         Papan Pencatatan
+ADCP	Adhi Commuter Properti Tbk.	                21 Mei 2021	    22.222.222.200	    Utama
+AMAN	Makmur Berkah Amanda Tbk.	                13 Mar 2020	     3.873.500.000	    Utama
+APLN	Agung Podomoro Land Tbk.	                11 Nov 2010	    22.699.326.779	    Utama
+ARMY	Armidian Karyatama Tbk.	                    21 Jun 2017	     9.006.250.000	    Pengembangan
+ASPI	Andalan Sakti Primaindo Tbk.	            17 Feb 2020	       681.794.825	    Pengembangan
+ASRI	Alam Sutera Realty Tbk.	                    18 Des 2007	    19.649.411.888	    Utama
+ATAP	Trimitra Prawara Goldland Tbk.	            11 Des 2020	     1.250.000.000	    Pengembangan
+BAPA	Bekasi Asri Pemula Tbk.	                    14 Jan 2008	       661.784.520	    Utama
+BAPI	Bhakti Agung Propertindo Tbk.	            16 Sep 2019	     5.591.752.986	    Pengembangan
+BBSS	Bumi Benowo Sukses Sejahtera Tbk.	        15 Apr 2020	     4.800.016.020	    Pengembangan
+BCIP	Bumi Citra Permai Tbk.	                    11 Des 2009	     1.429.915.525	    Pengembangan
+BEST	Bekasi Fajar Industrial Estate Tbk.	        10 Apr 2012	     9.647.311.150	    Utama
+BIKA	Binakarya Jaya Abadi Tbk.	                14 Jul 2015	       592.280.000	    Pengembangan
+BIPP	Bhuwanatala Indah Permai Tbk.	            23 Okt 1995	     5.028.669.366	    Pengembangan
+BKDP	Bukit Darmo Property Tbk.	                15 Jun 2007	     7.513.992.252	    Pengembangan
+BKSL	Sentul City Tbk.	                        28 Jul 1997	    67.083.561.082	    Utama
+BSDE	Bumi Serpong Damai Tbk.	                    06 Jun 2008	    21.171.365.812	    Utama
+CITY	Natura City Developments Tbk.	            28 Sep 2018	     5.405.188.966	    Utama
+COWL	Cowell Development Tbk.	                    19 Des 2007	     4.871.214.021	    PENGEMBANGAN
+CPRI	Capri Nusa Satu Properti Tbk.	            11 Apr 2019	     2.433.375.106	    PENGEMBANGAN
+CSIS	Cahayasakti Investindo Sukses Tbk.	        10 Mei 2017	     1.307.000.000	    Pengembangan
+CTRA	Ciputra Development Tbk.	                28 Mar 1994	    18.560.303.397	    Utama
+DADA	Diamond Citra Propertindo Tbk.	            14 Feb 2020	     7.178.140.108	    Pengembangan
+DART	Duta Anggada Realty Tbk.	                08 Mei 1990	     3.141.390.962	    Utama
+DILD	Intiland Development Tbk.	                04 Sep 1991	    10.365.854.185	    Utama
+DMAS	Puradelta Lestari Tbk.	                    29 Mei 2015	    48.198.111.100	    Utama
+DUTI	Duta Pertiwi Tbk.	                        02 Nov 1994	     1.850.000.000	    Pengembangan
+ELTY	Bakrieland Development Tbk.	                30 Okt 1995	    43.521.913.019	    UTAMA
+EMDE	Megapolitan Developments Tbk.	            12 Jan 2011	     3.350.000.000	    Pengembangan
+FMII	Fortune Mate Indonesia Tbk	                30 Jun 2000	     2.721.000.000	    Pengembangan
+FORZ	Forza Land Indonesia Tbk.	                28 Apr 2017	     1.984.009.887	    UTAMA
+GAMA	Aksara Global Development Tbk.	            11 Jul 2012	    10.011.027.656	    UTAMA
+GMTD	Gowa Makassar Tourism Development Tbk.	    11 Des 2000	       101.538.000	    Pengembangan
+GPRA	Perdana Gapuraprima Tbk.	                10 Okt 2007	     4.276.655.336	    Utama
+GWSA	Greenwood Sejahtera Tbk.	                23 Des 2011	     7.800.760.000	    UTAMA
+HOMI	Grand House Mulia Tbk.	                    10 Sep 2020	       787.500.000	    Pengembangan
+INDO	Royalindo Investa Wijaya Tbk.	            13 Jan 2020	     4.316.469.405	    Pengembangan
+INPP	Indonesian Paradise Property Tbk.           12 Jan 2004	    11.181.971.732	    Pengembangan
+IPAC	Era Graharealty Tbk.	                    30 Jun 2021	       949.868.500	    Akselerasi
+JRPT	Jaya Real Property Tbk.	                    29 Jun 1994	    13.750.000.000	    Utama
+KBAG	Karya Bersama Anugerah Tbk.	                08 Apr 2020	     7.150.001.509	    Pengembangan
+KIJA	Kawasan Industri Jababeka Tbk.	            10 Jan 1995	    20.824.888.369	    Utama
+KOTA	DMS Propertindo Tbk.	                    09 Jul 2019	    10.546.185.701	    UTAMA
+LAND	Trimitra Propertindo Tbk.	                23 Ags 2018	     2.792.620.000	    Pengembangan
+LCGP	Eureka Prima Jakarta Tbk.	                13 Jul 2007	     5.630.000.914	    Pengembangan
+LPCK	Lippo Cikarang Tbk	                        24 Jul 1997	     2.679.600.000	    Utama
+LPKR	Lippo Karawaci Tbk.	                        28 Jun 1996	    70.898.018.369	    Utama
+LPLI	Star Pacific Tbk.	                        23 Okt 1989	     1.170.432.803	    Pengembangan
+MDLN	Modernland Realty Tbk.	                    18 Jan 1993	    12.533.067.322	    Utama
+MKPI	Metropolitan Kentjana Tbk.	                10 Jul 2009	       948.194.000	    PENGEMBANGAN
+MMLP	Mega Manunggal Property Tbk.	            12 Jun 2015	     6.889.134.608	    Pengembangan
+MPRO	Maha Properti Indonesia Tbk.	            09 Okt 2018	     9.942.500.000	    Pengembangan
+MTLA	Metropolitan Land Tbk.	                    20 Jun 2011	     7.655.126.330	    UTAMA
+MTSM	Metro Realty Tbk.	                        08 Jan 1992	       232.848.000	    Pengembangan
+MYRX	Hanson International Tbk.	                31 Okt 1990	    86.703.220.792	    Pengembangan
+NIRO	City Retail Developments Tbk.	            13 Sep 2012	    22.198.871.804	    PENGEMBANGAN
+NZIA	Nusantara Almazia Tbk.	                    25 Sep 2019	     2.197.540.705	    UTAMA
+OMRE	Indonesia Prima Property Tbk	            22 Ags 1994	     1.745.000.000	    Pengembangan
+PAMG	Bima Sakti Pertiwi Tbk.	                    05 Jul 2019	     3.125.000.000	    Utama
+PLIN	Plaza Indonesia Realty Tbk.	                15 Jun 1992	     3.550.000.000	    Utama
+POLI	Pollux Hotels Group Tbk.	                10 Jan 2019	     2.010.526.400	    Pengembangan
+POLL	Pollux Properties Indonesia Tbk.	        11 Jul 2018	     8.318.823.600	    Utama
+POSA	Bliss Properti Indonesia Tbk.	            10 Mei 2019	     8.388.870.206	    Pengembangan
+PPRO	PP Properti Tbk.	                        19 Mei 2015	    61.675.671.883	    Utama
+PUDP	Pudjiadi Prestige Tbk.	                    18 Nov 1994	       329.560.000	    UTAMA
+PURI	Puri Global Sukses Tbk.	                    08 Sep 2020	     1.000.000.000	    Pengembangan
+PWON	Pakuwon Jati Tbk.	                        09 Okt 1989	    48.159.602.400	    UTAMA
+RBMS	Ristia Bintang Mahkotasejati Tbk.	        19 Des 1997	     2.656.212.826	    Utama
+RDTX	Roda Vivatex Tbk.	                        14 Mei 1990	       268.800.000	    Utama
+REAL	Repower Asia Indonesia Tbk.	                06 Des 2019	     6.633.610.151	    Pengembangan
+RIMO	Rimo International Lestari Tbk.	            10 Nov 2000	    45.080.600.000	    Pengembangan
+ROCK	Rockfields Properti Indonesia Tbk.          10 Sep 2020	     1.435.185.100	    Pengembangan
+RODA	Pikko Land Development Tbk.	                22 Okt 2001	    13.592.128.209	    Pengembangan
+SATU	Kota Satu Properti Tbk.	                    05 Nov 2018	     1.375.000.000	    PENGEMBANGAN
+SMDM	Suryamas Dutamakmur Tbk.	                12 Okt 1995	     4.772.138.237	    Pengembangan
+SMRA	Summarecon Agung Tbk.	                    07 Mei 1990	    16.508.568.358	    Utama
+TARA	Agung Semesta Sejahtera Tbk.	            11 Jul 2014	    10.069.645.750	    Utama
+TRIN	Perintis Triniti Properti Tbk.	            15 Jan 2020	     4.390.558.222	    Pengembangan
+TRUE	Triniti Dinamik Tbk.	                    10 Jun 2021	     7.570.888.050	    Pengembangan
+URBN	Urban Jakarta Propertindo Tbk.	            10 Des 2018	     3.232.122.640	    Pengembangan

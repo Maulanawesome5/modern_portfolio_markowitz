@@ -1,0 +1,74 @@
+Kode    Nama Perusahaan                             Tgl. Listing       Juml. Saham      Papan Pencatatan
+ADMR	Adaro Minerals Indonesia Tbk.	            2022 Jan 03	     40.882.331.500	    Pengembangan
+ADRO	Adaro Energy Tbk.	                        2008 Jul 16	     31.985.962.000	    Utama
+AIMS	Akbar Indo Makmur Stimec Tbk.	            2001 Jul 20	        220.000.000	    Pengembangan
+AKRA	AKR Corporindo Tbk.	                        1994 Oct 03	     20.073.474.600	    Utama
+APEX	Apexindo Pratama Duta Tbk.                  2013 Jun 05	      2.659.850.000	    Pengembangan
+ARII	Atlas Resources Tbk.	                    2011 Nov 08	      3.131.000.000	    Pengembangan
+ARTI	Ratu Prabu Energi Tbk.	                    2003 Apr 30	      7.840.000.000	    Utama
+ABRM	Pelayaran Nasional Bina Buana Raya Tbk.	    2013 Jan 09	      7.618.007.952	    Utama
+AESS	Batulicin Nusantara Maritim Tbk.	        2020 Mar 09	      3.412.604.935	    Pengembangan
+BIPI	Astrindo Nusantara infrastruktur Tbk.	    2010 Feb 11	     44.693.066.193	    Pengembangan
+BOSS	Borneo Olah Sarana Sukses Tbk.	            2018 Feb 15	      1.400.000.000	    Pengembangan
+BSML	Bintang Samudera Mandiri Lines Tbk.	        2021 Dec 16	      1.850.225.000	    Pengembangan
+BSSR	Baramulti Suksessarana Tbk.	                2012 Nov 08	      2.616.500.000	    Pengembangan
+BULL	Buana Lintas Lautan Tbk.	                2011 May 23	     13.432.476.445	    Utama
+BUMI	Bumi Resources Tbk.	                        1990 Jul 30	    108.772.794.052	    Pengembangan
+BYAN	Bayan Resources Tbk.	                    2008 Ags 12	      3.333.333.500	    Utama
+CANI	Capitol Nusantara Indonesia Tbk.	        2014 Jan 16	        833.440.000	    Pengembangan
+CNKO	Exploitasi Energi Indonesia Tbk.	        2001 Nov 20	      8.956.361.206	    Utama
+DEWA	Darma Henwa Tbk.	                        2007 Sep 26	     21.853.733.792	    Utama
+DOID	Delta Dunia Makmur Tbk.	                    2001 Jun 15	      8.621.173.232	    Utama
+DSSA	Dian Swastatika Sentosa Tbk.	            2009 Dec 10	        770.552.320	    Utama
+DWGL	Dwi Guna Laksana Tbk.	                    2017 Dec 13	      9.244.720.256	    Pengembangan
+ELSA	Elnusa Tbk.	                                2008 Feb 06	      7.298.500.000	    Utama
+ENRG	Energi Mega Persada Tbk.	                2004 Jun 07	     24.821.230.250	    Pengembangan
+ETWA	Eterindo Wahanatama Tbk	                    1997 May 16	      4.668.671.400	    Utama
+FIRE	Alfa Energi Investama Tbk.	                2017 Jun 09	      1.475.363.179	    Pengembangan
+GEMS	Golden Energy Mines Tbk.	                2011 Nov 17	      5.882.353.000	    Utama
+GTBO	Garda Tujuh Buana Tbk	                    2009 Jul 09	      2.500.000.000	    Pengembangan
+GTSI	GTS Internasional Tbk.	                    2021 Sep 08	     15.819.142.767	    Utama
+HITS	Humpuss Intermoda Transportasi Tbk.	        1997 Dec 15	      7.101.084.801	    Utama
+HRUM	Harum Energy Tbk.	                        2010 Oct 06	      2.703.620.000	    Utama
+INDY	Indika Energy Tbk.	                        2008 Jun 11	      5.210.192.000	    Utama
+INPS	Indah Prakasa Sentosa Tbk.	                2018 Apr 06	        650.000.000	    Pengembangan
+ITMA	Sumber Energi Andalan Tbk.	                1990 Dec 10	        870.701.000	    Pengembangan
+ITMG	Indo Tambangraya Megah Tbk.	                2007 Dec 18	      1.129.925.000	    Utama
+JSKY	Sky Energy Indonesia Tbk.	                2018 Mar 28	      2.032.540.000	    Utama
+KKGI	Resource Alam Indonesia Tbk.	            1991 Jul 01	      5.000.000.000	    Utama
+KOPI	Mitra Energi Persada Tbk.	                2015 May 04	        697.266.668	    PENGEMBANGAN
+LEAD	Logindo Samudramakmur Tbk.	                2013 Dec 11	      4.049.616.328	    UTAMA
+MBAP	Mitrabara Adiperdana Tbk.	                2014 Jul 10	      1.227.271.952	    Pengembangan
+MBSS	Mitrabahtera Segara Sejati Tbk	            2011 Apr 06	      1.750.026.639	    Utama
+MCOL	Prima Andalan Mandiri Tbk.	                2021 Sep 07	      3.555.560.000	    Utama
+MEDC	Medco Energi Internasional Tbk.	            1994 Oct 12	     25.136.231.252	    Utama
+MITI	Mitra Investindo Tbk.	                    1997 Jul 16	      2.442.988.366	    Pengembangan
+MTFN	Capitalinc Investment Tbk.	                1990 Apr 16	     31.842.082.852	    Pengembangan
+MYOH	Samindo Resources Tbk.	                    2000 Jul 27	      2.206.312.500	    Utama
+PGAS	Perusahaan Gas Negara Tbk.	                2003 Dec 15	     24.241.508.196	    Utama
+PKPK	Perdana Karya Perkasa Tbk.	                2007 Jul 11	        600.000.000	    Pengembangan
+PSSI	Pelita Samudera Shipping Tbk.	            2017 Dec 05	      5.417.063.153	    Utama
+PTBA	Bukit Asam Tbk.	                            2002 Dec 23	     11.520.659.250	    Utama
+PTIS	Indo Straits Tbk.	                        2011 Jul 12	        550.165.300	    Utama
+PTRO	Petrosea Tbk.	                            1990 May 21	      1.008.605.000	    Utama
+RAJA	Rukun Raharja Tbk.	                        2006 Apr 19	      4.227.082.500	    Utama
+RIGS	Rig Tenders Indonesia Tbk.	                1990 Mar 05	        609.130.000	    Pengembangan
+RMKE	RMK Energy Tbk.	                            2021 Dec 07	      4.375.000.000	    Utama
+RUIS	Radiant Utama Interinsco Tbk.	            2006 Jul 12	        770.000.000	    Pengembangan
+SEMA	Semacom Integrated Tbk.	                    2022 Jan 10	      1.347.000.000	    Pengembangan
+SGER	Sumber Global Energy Tbk.	                2020 Ags 10	      1.959.425.719	    Pengembangan
+SHIP	Sillo Maritime Perdana Tbk.	                2016 Jun 16	      2.719.790.000	    Pengembangan
+SMMT	Golden Eagle Energy Tbk.	                1997 Dec 01	      3.150.000.000	    PENGEMBANGAN
+SMRU	SMR Utama Tbk.	                            2011 Oct 10	     12.499.385.782	    Pengembangan
+SOCI	Soechi Lines Tbk.	                        2014 Dec 03	      7.059.000.000	    Utama
+SUGI	Sugih Energy Tbk.	                        2002 Jun 19	     24.811.541.414	    PENGEMBANGAN
+SURE	Super Energy Tbk.	                        2018 Oct 05	      1.497.576.771	    PENGEMBANGAN
+TAMU	Pelayaran Tamarin Samudra Tbk.	            2017 May 10	     37.500.000.000	    Pengembangan
+TCPI	Transcoal Pacific Tbk.	                    2018 Jul 06	      5.000.000.000	    Pengembangan
+TEBE	Dana Brata Luhur Tbk.	                    2019 Nov 18	      1.285.000.000	    PENGEMBANGAN
+TOBA	TBS Energi Utama Tbk.	                    2012 Jul 06	      8.049.964.000	    Utama
+TPMA	Trans Power Marine Tbk.	                    2013 Feb 20	      2.633.300.000	    Pengembangan
+TRAM	Trada Alam Minera Tbk.	                    2008 Sep 10	     49.643.627.934	    Utama
+UNIQ	Ulima Nitra Tbk.	                        2021 Mar 08	      3.138.983.000	    Utama
+WINS	Wintermar Offshore Marine Tbk.	            2010 Nov 29	      4.346.087.057	    Utama
+WOWS	Ginting Jaya Energi Tbk.	                2019 Nov 08	      2.475.720.000	    Pengembangan
