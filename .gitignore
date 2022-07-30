@@ -1,3 +1,4 @@
 # abaikan file atau folder yang tidak ingin di commit
 coba.py
-# data
+data/emiten_properti.xlsx
+data/~$emiten_properti.xlsx
